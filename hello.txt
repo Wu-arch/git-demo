@@ -13,4 +13,4 @@ hello wusihan! hello Git!
 hello wusihan! hello Git!
 hello wusihan! hello Git!
 hello wusihan! hello Git!
-hello wusihan! hello Git!
+hello wusihan! hello Git! hot-fix test
