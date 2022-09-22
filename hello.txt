@@ -16,3 +16,4 @@ hello wusihan! hello Git! master test
 hello wusihan! hello Git! hot-fix test
 This is github version1
 This is github version2 SSH
+This is a SSH test
